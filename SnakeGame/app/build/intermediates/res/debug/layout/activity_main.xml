@@ -1,0 +1,47 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <com.xiaochao.snakegame.SnakeView
+        android:id="@+id/snakeView"
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:layout_weight="3" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:layout_weight="1">
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/up"
+            android:layout_centerHorizontal="true"
+            android:text="上"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/down"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentBottom="true"
+            android:text="下"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/left"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@+id/up"
+            android:text="左"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/right"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@+id/up"
+            android:text="右"/>
+    </RelativeLayout>
+
+</LinearLayout>
+<!-- From: file:/E:/AndroidStudioProjects/SnakeGame/app/src/main/res/layout/activity_main.xml -->

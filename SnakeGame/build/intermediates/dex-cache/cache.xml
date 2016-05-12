@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\AndroidStudioProjects\SnakeGame\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="E:\AndroidStudioProjects\SnakeGame\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-31c0444ff9a40c818d0cdc5af1d357b497fed1b5.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\SnakeGame\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="E:\AndroidStudioProjects\SnakeGame\app\build\intermediates\pre-dexed\debug\classes-d7215d71dfa006ba14f4fba5c08abea258dce230.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\SnakeGame\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="E:\AndroidStudioProjects\SnakeGame\app\build\intermediates\pre-dexed\debug\classes-6a11643aa5c9149b394036840ee4ec0042c410af.jar" />
+    </item>
+    <item
+        jar="C:\Users\xc\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="E:\AndroidStudioProjects\SnakeGame\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-88f1a55c04483abb07930d768ea7e0f6831ca3d2.jar" />
+    </item>
+
+</items>
